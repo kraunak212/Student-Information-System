@@ -1,42 +1,29 @@
-Student Information System
+# Student Information System
 
-Project Overview
-  This is a Java console-based Student Information System used to manage student records efficiently.
+##  Project Overview
+This is a Java console-based Student Information System used to manage student records efficiently.
 
-Features
+## ✨ Features
+- Add new student
+- View all students
+- Search student by ID
+- Update student details
+- Data validation
+- Menu-driven interface
 
-  Add new student
+##  Technologies Used
+- Java
+- OOP Concepts
+- ArrayList
 
-  View all students
+## ▶️ How to Run
+1. Open project in IDE
+2. Run `Main.java`
 
-  Search student by ID
+##  Folder Structure
+- `src/` → Source code  
+- `docs/` → Documentation  
+- `test_data/` → Sample student data  
 
-  Update student details
-
-  Data validation
-
-  Menu-driven interface
-
-Technologies Used
-
-  Java
-
-  OOP Concepts
-
-  ArrayList
-
-How to Run
-
-  Open project in IDE
-
-  Run Main.java
-
-Folder Structure
-
-  src/ → Source code
-  docs/ → Documentation
-  test_data/ → Sample student data
-
-
-Author
+## Author
 Raunak Kumar
