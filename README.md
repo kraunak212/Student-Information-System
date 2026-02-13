@@ -37,6 +37,6 @@ Folder Structure
   docs/ → Documentation
   test_data/ → Sample student data
 
-Author
 
+Author
 Raunak Kumar
